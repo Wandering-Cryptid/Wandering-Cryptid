@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Wandering-Cryptid
+- 👀 I’m interested in C# & Java
+- 🌱 I’m currently learning C#, Unity, & Java
