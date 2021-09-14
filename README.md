@@ -1,3 +1,6 @@
-- 👋 Hi, I’m @Wandering-Cryptid
-- 👀 I’m interested in C# & Java
-- 🌱 I’m currently learning C#, Unity, & Java
+-Hello, i'm @Wandering-Cryptid
+-Not much is gonna go on here for now
+
+-I know some Japanese
+
+-Currently working on school projects for C# & Java
